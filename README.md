@@ -8,6 +8,10 @@ Be the first to experience Orbix. Try now for early access and updates.
 
 ---
 
+## 🖼️ Preview  
+
+![Orbix Mockup](./orbixmockup.png)  
+
 ## 🎯 Tentang Orbix  
 
 Orbix adalah asisten cerdas yang membantu menjaga workflow tetap sinkron, pintar, dan efisien.  
